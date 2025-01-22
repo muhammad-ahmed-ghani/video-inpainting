@@ -1,0 +1,12 @@
+tqdm
+einops==0.8.0
+spaces
+timm==1.0.14
+transformers==4.48.1
+samv2==0.0.4
+gradio
+supervision==0.25.1
+opencv-python==4.11.0.86
+pytest==8.3.4
+imageio==2.37.0
+moviepy==1.0.3
